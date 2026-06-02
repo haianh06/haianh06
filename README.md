@@ -21,22 +21,10 @@
 ## 🛠 Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,raspberrypi,git&perline=9" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,git&perline=9" alt="My Skills" />
   </a>
 </div>
 
-<!-- 4. GITHUB STATS & ANALYTICS -->
-<!-- Biểu đồ thống kê tự động cập nhật theo thời gian thực dựa trên username -->
-## 📊 GitHub Analytics
-<div align="center">
-  <!-- Thẻ thống kê chung -->
-  <img src="https://github-readme-stats.vercel.app/api?username=haianh06&show_icons=true&theme=radical&hide_border=true" alt="haianh06's GitHub Stats" width="48%" />
-  <!-- Thẻ phân bổ ngôn ngữ lập trình -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haianh06&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<!-- 5. CONTACT & SOCIAL LINKS -->
-<!-- Cấu trúc các badge liên hệ tĩnh bằng shields.io -->
 ## 📫 Liên hệ
 <p align="center">
   <a href="mailto:anhnguyenhaii2309@gmail.com">
