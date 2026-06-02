@@ -21,7 +21,7 @@
 ## 🛠 Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,raspberrypi,linux,git,docker&perline=9" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,raspberrypi,git&perline=9" alt="My Skills" />
   </a>
 </div>
 
@@ -39,7 +39,7 @@
 <!-- Cấu trúc các badge liên hệ tĩnh bằng shields.io -->
 ## 📫 Liên hệ
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:anhnguyenhaii2309@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/haianh06">
