@@ -11,10 +11,10 @@
 <!-- 2. ABOUT ME SECTION -->
 <!-- Giới thiệu ngắn gọn về định hướng và nền tảng cá nhân -->
 ## 🚀 Về bản thân
-- 🎓 Hiện đang là sinh viên tại Đại học FPT (Cơ sở Hòa Lạc).
-- 🧠 Trọng tâm nghiên cứu: **Computer Vision** (đặc biệt là kiến trúc YOLO) và **Machine Learning**.
-- 💻 Đam mê xây dựng hệ thống end-to-end: từ huấn luyện mô hình, thiết kế phần cứng nhúng (Raspberry Pi) đến phát triển web app bằng framework **Reflex**.
-- 🎵 Thích chơi Kalimba và Piano để cân bằng tư duy logic với nghệ thuật.
+- 🎓 Styding at FPT University.
+- 🧠 Mainly Research: **Anything about AI**.
+- 💻 I wonder what AI can do for the world.
+- 🎵 Piano also a hobby.
 
 <!-- 3. TECH STACK (VŨ KHÍ KỸ THUẬT) -->
 <!-- Sử dụng API từ skillicons để tạo lưới icon đồng bộ, thay vì chèn từng ảnh thủ công -->
