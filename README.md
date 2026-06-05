@@ -10,7 +10,7 @@
 
 <!-- 2. ABOUT ME SECTION -->
 <!-- Giới thiệu ngắn gọn về định hướng và nền tảng cá nhân -->
-## 🚀 Về bản thân
+## 🚀 About Me
 - 🎓 Styding at FPT University.
 - 🧠 Mainly Research: **Anything about AI**.
 - 💻 I wonder what AI can do for the world.
@@ -25,7 +25,7 @@
   </a>
 </div>
 
-## 📫 Liên hệ
+## 📫 Contact
 <p align="center">
   <a href="mailto:anhnguyenhaii2309@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
