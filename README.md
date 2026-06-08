@@ -11,7 +11,7 @@
 <!-- 2. ABOUT ME SECTION -->
 <!-- Giới thiệu ngắn gọn về định hướng và nền tảng cá nhân -->
 ## 🚀 About Me
-- 🎓 Styding at FPT University.
+- 🎓 Studying at FPT University.
 - 🧠 Mainly Research: **Anything about AI**.
 - 💻 I wonder what AI can do for the world.
 - 🎵 Piano also a hobby.
